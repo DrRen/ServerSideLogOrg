@@ -1,0 +1,14 @@
+C:\Users\drren\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ServerSideLogOrg.csprojAssemblyReference.cache
+C:\Users\drren\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ServerSideLogOrg.csproj.CoreCompileInputs.cache
+C:\Users\drren\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ServerSideLogOrg.exe.config
+C:\Users\drren\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ServerSideLogOrg.exe
+C:\Users\drren\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ServerSideLogOrg.pdb
+C:\Users\drren\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ServerSideLogOrg.exe
+C:\Users\drren\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ServerSideLogOrg.pdb
+C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\bin\Debug\ServerSideLogOrg.exe.config
+C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\bin\Debug\ServerSideLogOrg.exe
+C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\bin\Debug\ServerSideLogOrg.pdb
+C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSideLogOrg.csprojAssemblyReference.cache
+C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSideLogOrg.csproj.CoreCompileInputs.cache
+C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSideLogOrg.exe
+C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSideLogOrg.pdb
