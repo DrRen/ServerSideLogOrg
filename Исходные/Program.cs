@@ -116,14 +116,13 @@ namespace ServerSideLogOrg {
                 Array.Copy(buffer, recBuf, received);
                 string text = Encoding.Default.GetString(recBuf);
                 if (!fileState)
-                    Console.WriteLine("Received Text: " + text);
+                    Console.Write("Received Text: ");
 
                 if (fileState) {
                     if (text.ToLower() == "file finish")
                     {
                         fileState = false;
                         Console.WriteLine("File received");
-
                     }
                     else {
                         File.AppendAllText(fileName, text);
@@ -131,6 +130,7 @@ namespace ServerSideLogOrg {
                 }
                 else if (text.ToLower() == "exit") // Client wants to exit gracefully
                 {
+                    Console.WriteLine(text);
                     // Always Shutdown before closing
                     current.Shutdown(SocketShutdown.Both);
                     current.Close();
@@ -153,7 +153,7 @@ namespace ServerSideLogOrg {
                     foreach(var s in parsed1) {
                         var key = s.Split(':')[0];
                         var value = s.Split(':')[1];
-
+                        Console.WriteLine(key == "Password" ? key + " --> ***********" : key + " --> " + value);
                         switch (key)
                         {
                             case "Host":
@@ -187,10 +187,7 @@ namespace ServerSideLogOrg {
                                 break;
                         }
                     }
-                    Console.WriteLine("Text is an invalid request");
-                    byte[] data = Encoding.Default.GetBytes("ok");
-                    current.Send(data);
-                    Console.WriteLine("Warning Sent");
+                    Console.WriteLine("Got send data");
                 }
 
                 current.BeginReceive(buffer, 0, BUFFER_SIZE, SocketFlags.None, ReceiveCallback, current);

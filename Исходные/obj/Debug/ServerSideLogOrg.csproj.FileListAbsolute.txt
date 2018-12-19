@@ -12,3 +12,10 @@ C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSi
 C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSideLogOrg.csproj.CoreCompileInputs.cache
 C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSideLogOrg.exe
 C:\Users\drren\source\repos\ServerSideLogOrg\ServerSideLogOrg\obj\Debug\ServerSideLogOrg.pdb
+C:\Users\drren\Desktop\ServerSideLogOrg\Исходные\bin\Debug\ServerSideLogOrg.exe.config
+C:\Users\drren\Desktop\ServerSideLogOrg\Исходные\bin\Debug\ServerSideLogOrg.exe
+C:\Users\drren\Desktop\ServerSideLogOrg\Исходные\bin\Debug\ServerSideLogOrg.pdb
+C:\Users\drren\Desktop\ServerSideLogOrg\Исходные\obj\Debug\ServerSideLogOrg.csprojAssemblyReference.cache
+C:\Users\drren\Desktop\ServerSideLogOrg\Исходные\obj\Debug\ServerSideLogOrg.csproj.CoreCompileInputs.cache
+C:\Users\drren\Desktop\ServerSideLogOrg\Исходные\obj\Debug\ServerSideLogOrg.exe
+C:\Users\drren\Desktop\ServerSideLogOrg\Исходные\obj\Debug\ServerSideLogOrg.pdb
