@@ -1,1 +1,0 @@
-.\ServerSideLogOrg.exe -hide
